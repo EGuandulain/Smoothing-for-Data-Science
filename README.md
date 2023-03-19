@@ -1,6 +1,6 @@
 # Smoothing-for-Data-Science
 
-Developing of three diferent methods for smoothing data in Python.
+Developing of three diferent methods for smoothing time-series data in Python.
 
 
 * Savitzky-Golay Filter
