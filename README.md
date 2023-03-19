@@ -1,5 +1,8 @@
 # Smoothing-for-Data-Science
 
+
+Created as part of [Data Science and Visualization Application](https://github.com/YuganshuWadhwa/Data-Science-and-Visualization-Application).
+
 Developing of three diferent methods for smoothing time-series data in Python.
 
 
